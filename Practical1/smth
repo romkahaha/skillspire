@@ -1,0 +1,2 @@
+import pandas as pd
+smth = 1 + 1
